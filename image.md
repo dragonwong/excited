@@ -5,4 +5,16 @@
 
 ![](img/monky.jpg)
 
+![](img/happy.jpeg)
+
 ![](img/drink.gif)
+
+![](img/double_drink.jpeg)
+
+![](img/classic_chat.jpg)
+
+![](img/dark_power.jpg)
+
+![](img/handsome.jpg)
+
+![](img/i_am_watching_u.jpg)
