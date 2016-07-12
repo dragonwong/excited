@@ -23,21 +23,7 @@
 炉石膜
 ---
 
-法师：
-
-> 我的膜法会把你撕成碎片！
-
-魔瘾者：
-
-> 我仿佛已经品尝到了膜法的美味。
-
-破法者：
-
-> 你的膜法也救不了你！
-
-达拉然法师：
-
-> 我是掌控膜法的大师。
+[炉石的膜法师们](hearthstone.md)
 
 友情链接
 ---
@@ -48,6 +34,6 @@
 
 - [蛤蛤体生成器](https://github.com/dkwingsmt/haha)
 
-- [长者今天……](https://github.com/hczhcz/the-elder-is-excited) 
+- [长者今天……](https://github.com/hczhcz/the-elder-is-excited)
 
 - [微博友人-根正苗红的贫农](http://weibo.com/u/5449687795)

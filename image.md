@@ -20,3 +20,5 @@
 ![](img/handsome.jpg)
 
 ![](img/i_am_watching_u.jpg)
+
+![](img/shy.jpg)
