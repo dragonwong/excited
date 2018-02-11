@@ -27,7 +27,7 @@
 知乎膜
 ---
 
-[膜法问答](https://www.zhihu.com/collection/87992444)
+- ~~[膜法问答](https://www.zhihu.com/collection/87992444)~~（已被和谐）
 
 炉石膜
 ---
@@ -39,12 +39,12 @@
 
 > 今天我是要得罪你们一下了。
 
-- [蛤蛤语录](http://wiki.esu.im/index.php?title=%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95&veaction=edit&section=3)（已被和谐）
+- ~~[蛤蛤语录](http://wiki.esu.im/index.php?title=%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95&veaction=edit&section=3)~~（已被和谐）
 
-- [蛤蛤体生成器](https://github.com/dkwingsmt/haha)
+- [蛤蛤体生成器](https://github.com/dkwingsmt/haha)（需强力翻墙）
 
 - [长者今天……](https://github.com/hczhcz/the-elder-is-excited)
 
-- [微博友人-根正苗红的贫农](http://weibo.com/u/5449687795)
+- ~~[微博友人-根正苗红的贫农](http://weibo.com/u/5449687795)~~（已被喝茶）
 
-- [长者说](http://elder.var4.com/)（已被和谐）
+- ~~[长者说](http://elder.var4.com/)~~ （已被和谐）
